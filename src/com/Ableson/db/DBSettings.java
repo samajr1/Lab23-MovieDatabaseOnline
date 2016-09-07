@@ -1,3 +1,5 @@
+package com.Ableson.db;
+
 public class DBSettings {
 	public static String url = "jdbc:mysql://localhost:3306/movies?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
 	public static String user = "jdbc";//username I set up
